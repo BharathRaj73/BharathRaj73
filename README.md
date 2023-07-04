@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Bharath</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharathraj73&label=Profile%20views&color=0e75b6&style=flat" alt="bharathraj73" /> </p>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on [Fiverr Clone](https://github.com/BharathRaj73/Fiverr)
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Full Stack**
 
-- 👨‍💻 All of my projects are available at [https://nextjs-portfolio-pwd6-2s76nwnpz-bharathraj73.vercel.app/](https://nextjs-portfolio-pwd6-2s76nwnpz-bharathraj73.vercel.app/)
+- 👨‍💻 All of my projects are available at [Click Here(https://nextjs-portfolio-inky-beta.vercel.app/)](Click Here(https://nextjs-portfolio-inky-beta.vercel.app/))
 
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **bharathraj7302@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1hosl2R1NZUwhsvVjTxA-J4mUegml4ddF/view?usp=drive_link](https://drive.google.com/file/d/1hosl2R1NZUwhsvVjTxA-J4mUegml4ddF/view?usp=drive_link)
 
 
 <h3 align="left">Connect with me:</h3>
