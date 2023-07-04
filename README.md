@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack**
 
-- 👨‍💻 All of my projects are available at [Click Here(https://nextjs-portfolio-inky-beta.vercel.app/)](Click Here(https://nextjs-portfolio-inky-beta.vercel.app/))
+- 👨‍💻 All of my projects are available at https://nextjs-portfolio-inky-beta.vercel.app/
 
 - 💬 Ask me about **Web Development**
 
