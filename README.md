@@ -13,7 +13,7 @@
 -  👨‍💻 All of my projects are available at [Click here](https://nextjs-portfolio-inky-beta.vercel.app/)  
   
 
-- 📫 How to reach me [bharathraj7302@gmail.com]()  
+- 📫 How to reach me [bharathraj7302@gmail.com] 
   
 
 - 📄 Know about my experiences [Click here](https://drive.google.com/file/d/1hosl2R1NZUwhsvVjTxA-J4mUegml4ddF/view?usp=drive_link)  
